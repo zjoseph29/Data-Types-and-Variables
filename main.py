@@ -12,8 +12,9 @@ Fill the following functions in order to complete the exercise.
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
 
-# 4.- Make a program that prints the number of characters in a string. Use a 
-# variable for the string.
+# 4.- Given a sentence, assign the string to a variable then print the number of 
+# characters in the sentence. 
+# The sentence is "This is my first Python program."
 
 # 5.- Given the resolution 1920 x 1080, make a program that prints a string with 
 # the 10% over-scan value of those numbers. The printed string must be as 
