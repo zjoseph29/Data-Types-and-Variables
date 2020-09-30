@@ -1,8 +1,8 @@
 """Python for Visual Effects.
 
-Assignment #1
+Assignment #1 - Data Types and Variables
 
-Fill the following functions in order to complete the exercise.
+Answer the following questions.
 """
 
 # 1.- Make a program that solves and shows the summation of 64 + 32
