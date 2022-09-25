@@ -5,17 +5,25 @@ Assignment #1 - Data Types and Variables
 Answer the following questions.
 """
 
-# 1.- Make a program that solves and shows the summation of 64 + 32
+# 1.- Make a program that solves and shows the summation of 64 + 32.
 
-# 2.- Do the same as the question one but this time use variables instead of 
+# 2.- Do the same as question one, but this time use variables instead of
 # numbers.
 
-# 3.- Make a program that prints a sentence that includes at least 3 variables.
+# 3.- Make a program that prints a sentence that includes at least three variables
+# using the `f-string` or the `.format` method.
 
-# 4.- Given a sentence, assign the string to a variable then print the number of 
-# characters in the sentence. 
-# The sentence is "This is my first Python program."
+# 4.- Given a sentence, print a variable that stores a string that contains a text
+# that reports how many characters the sentence has and what kind of data type it is.
+# The sentence is: "This is my second Python program."
 
-# 5.- Given the resolution 1920 x 1080, make a program that prints a string with 
-# the 10% over-scan value of those numbers. The printed string must be as 
-# follows: "The 10% overscan of 1920 is <value 1>, and the 1080 is <value 2>"
+# 5.- Write a program that calculates the overscan values of a given resolution
+# and prints the result as a string. It must use three (3) variables at least:
+# Width, height and percentage.
+#   1. Assign a value to each variable.
+#   2. (Optional) Calculate the overscan values of the resolutions and assign
+#      them to new variables.
+#   3. Create a variable called "report" and assign it a string that uses all the
+#      variables used.
+#           For example: "The 10% overscan of the resolution 1920x1080 is 2112x1188."
+#   3. Print the value of the variable "report."
