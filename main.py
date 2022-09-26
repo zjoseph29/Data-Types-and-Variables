@@ -6,12 +6,17 @@ Answer the following questions.
 """
 
 # 1.- Make a program that solves and shows the summation of 64 + 32.
+print(64+32) 
 
 # 2.- Do the same as question one, but this time use variables instead of
 # numbers.
+number1= 64
+number2=32
+print(f"{number1+number2}")
 
 # 3.- Make a program that prints a sentence that includes at least three variables
 # using the `f-string` or the `.format` method.
+
 
 # 4.- Given a sentence, print a variable that stores a string that contains a text
 # that reports how many characters the sentence has and what kind of data type it is.
