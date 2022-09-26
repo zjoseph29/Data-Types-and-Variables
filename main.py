@@ -16,11 +16,17 @@ print(f"{number1+number2}")
 
 # 3.- Make a program that prints a sentence that includes at least three variables
 # using the `f-string` or the `.format` method.
+name="Zamarla"
+job="Visual Instructor"
+employer="City of Toronto"
+print(f"My name is {name}, I work as a {job} with {employer}")
 
 
 # 4.- Given a sentence, print a variable that stores a string that contains a text
 # that reports how many characters the sentence has and what kind of data type it is.
 # The sentence is: "This is my second Python program."
+print(len("This is my second Python program"))
+print(type("This is my second Python program"))
 
 # 5.- Write a program that calculates the overscan values of a given resolution
 # and prints the result as a string. It must use three (3) variables at least:
@@ -32,3 +38,8 @@ print(f"{number1+number2}")
 #      variables used.
 #           For example: "The 10% overscan of the resolution 1920x1080 is 2112x1188."
 #   3. Print the value of the variable "report."
+width=1920
+height=1080
+percentage=0.20
+report=(f"{width/percentage}x{height/percentage}")
+print(f"{report}")
